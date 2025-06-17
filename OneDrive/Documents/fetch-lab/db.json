@@ -1,0 +1,16 @@
+{
+    "users": []
+    "dogs": [
+        {
+            "dogName": "Byron",
+            "dogBreed": "Labrador",
+            "dogAge": 5,
+             "dogWeight": 30
+        }
+    ],
+    "cats": []
+    "robots": []
+}
+
+        
+        
